@@ -1,0 +1,16 @@
+.logo{
+    text-align: center;
+    padding: 2.6rem 1rem;
+    color: rgb(133, 15, 237);
+}
+
+.mat-icon{
+    vertical-align: center;
+    margin-right: 1rem;
+}
+
+.mat-list-item{
+    color: black;
+    font-size: 0.8rem;
+    height: 44px !important;
+}

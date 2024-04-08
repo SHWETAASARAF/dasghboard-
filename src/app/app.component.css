@@ -1,0 +1,19 @@
+:host{
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+mat-drawer{
+  width: 260px;
+  background-color: white;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  font-family: 'Nunito', sans-serif;
+  font-size: small;
+}
+
+mat-drawer-container{
+  height: 100%;
+}
+
